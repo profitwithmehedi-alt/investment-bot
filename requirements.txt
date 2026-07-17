@@ -1,0 +1,5 @@
+python-telegram-bot==21.10
+python-dotenv==1.0.1
+asyncpg==0.30.0
+SQLAlchemy==2.0.41
+psycopg2-binary==2.9.10
